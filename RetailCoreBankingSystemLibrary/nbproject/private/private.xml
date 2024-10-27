@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/src/service/CustomerServiceBeanRemote.java</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/src/service/AccountServiceBeanRemote.java</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/nbproject/private/private.properties</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/src/service/TransactionServiceBeanRemote.java</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/src/service/AtmCardServiceBeanRemote.java</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/src/Entity/DepositAccount.java</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/src/Entity/DepositAccountTransaction.java</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/src/Utils/Enumerations/DepositAccountType.java</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/nbproject/private/private.xml</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/src/Entity/Customer.java</file>
+            <file>file:/C:/Users/aliya/OneDrive/Documents/NetBeansProjects/RetailCoreBankingSystem/RetailCoreBankingSystemLibrary/src/Entity/AtmCard.java</file>
+        </group>
+    </open-files>
+</project-private>
